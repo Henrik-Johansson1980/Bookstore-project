@@ -8,4 +8,4 @@ Sidan är stylad med W3.CSS.
 
 Projektet utvecklades på en lokal XAMPP-server. Så de serverinställningar som beskrivs i dokumentationen stämmer inte längre.
 
-![Front page screen shot](bookstore/frontpage.png)
+![Front page screen shot](bookstore/frontpage.PNG)
