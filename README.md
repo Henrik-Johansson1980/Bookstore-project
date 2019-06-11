@@ -8,5 +8,4 @@ Sidan är stylad med W3.CSS.
 
 Projektet utvecklades på en lokal XAMPP-server. Så de serverinställningar som beskrivs i dokumentationen stämmer inte längre.
 
-I den uppladdade filen finns även lite ändringar som gjordes i kursen Webbserverprogrammering 2. Här har jag lagt till admin- och kundsidor.
 
